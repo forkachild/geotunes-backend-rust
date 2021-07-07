@@ -1,0 +1,1 @@
+select exists(select 1 from songs where id = $1) as song_exists

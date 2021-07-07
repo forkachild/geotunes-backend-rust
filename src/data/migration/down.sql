@@ -1,0 +1,10 @@
+drop table if exists song_history;
+drop index if exists station_location_index;
+drop table if exists stations;
+drop table if exists worlds;
+drop table if exists song_links;
+drop table if exists songs;
+drop table if exists user_auth_providers;
+drop table if exists user_details;
+drop table if exists users;
+drop index if exists station_location_index;
